@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Parent from Local
-=======
-Parent from Remote
->>>>>>> c1b88a9b2d390276d18d8a7a4f6c1c819c6b457d
+line 1 from Local
+line 2 from Local
