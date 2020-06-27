@@ -1,2 +1,2 @@
-line 1 from remote
+line 1 from local
 line 2 from remote
