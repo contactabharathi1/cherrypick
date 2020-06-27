@@ -1,1 +1,12 @@
+<<<<<<< HEAD
+=======
+line 1 from local
+line 2 from remote
+line 3 from local
+line 4 from local
+line 5 from remote
+line 6 from remote
+line 7 from local
+line 8 from local
+>>>>>>> a285442c72528319d95b744b1387db7dd1b289ab
 
