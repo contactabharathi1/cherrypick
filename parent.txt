@@ -3,4 +3,5 @@ line 2 from remote
 line 3 from local
 line 4 from local
 line 5 from remote
-
+line 6 from remote
+line 7 from remote
