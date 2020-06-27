@@ -7,5 +7,3 @@ line 6 from remote
 line 7 from local
 line 8 from local
 
-
-
