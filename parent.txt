@@ -1,3 +1,5 @@
 line 1 from local
 line 2 from remote
+<<<<<<< HEAD
 line 3 from local
+>>>>>>> dabeadebc27e3b13614b6a980e1d054c62adca6b
